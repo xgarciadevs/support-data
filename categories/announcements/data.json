@@ -1,0 +1,9 @@
+{
+  "category": "announcements",
+  "data": [
+    {
+      "name": "Example Data",
+      "slug": "example-data"
+    }
+  ]
+}
