@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Announcements",
+    "description": "View the latest announcements for WebProfiles.",
+    "page": "announcements"
+  },
+  {
+    "name": "Getting Started",
+    "description": "Learn how to get started with WebProfiles.",
+    "page": "getting_started"
+  },
+  {
+    "name": "Account Settings",
+    "description": "Get help with setting up and/or editing your account.",
+    "page": "account_settings"
+  }
+]
