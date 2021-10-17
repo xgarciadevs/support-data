@@ -5,6 +5,8 @@
 ##### Markdown Title 5
 ###### Markdown Title 6
 
+<br />
+<br />
 
 **bold**
 
@@ -12,8 +14,8 @@
 
 ***bold + italicized***
 
-__underlined__
-
+<br />
+<br />
 
 ![](https://webprofiles.me/logo/w_logo.png)
 
