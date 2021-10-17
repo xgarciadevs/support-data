@@ -1,22 +1,22 @@
 # Markdown Title
+
 ## Markdown Title 2
+
 ### Markdown Title 3
+
 #### Markdown Title 4
+
 ##### Markdown Title 5
+
 ###### Markdown Title 6
 
 &nbsp;
-&nbsp;
 
-**bold**
-
-*italicized*
-
-***bold + italicized***
+**bold**\
+_italicized_\
+**_bold + italicized_**
 
 &nbsp;
-&nbsp;
 
-![](https://webprofiles.me/logo/w_logo.png)
-
+![](https://webprofiles.me/logo/w_logo.png)\
 [link](https://webprofiles.me)
