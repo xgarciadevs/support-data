@@ -10,16 +10,15 @@ Data for the WebProfiles support center.
 2. Edit the `data.json` file to include the following details: 
 ```json
 {
-	"category": "announcements",
-	"data": [
-		{
-			...
-		},
-		{
-			"name": "Article Title Here",
-			"slug": "article-title-here"
-		}
-	]
+ "category": "announcements",
+ "data": [
+  {
+   ...
+  }, {
+   "name": "Article Title Here",
+   "slug": "article-title-here"
+  }
+ ]
 }
 ```
 3. Create a file named after the slug you provided above (e.g. `article-title-here.json`).
