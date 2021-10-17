@@ -10,8 +10,8 @@
     "page": "getting_started"
   },
   {
-    "name": "Account Settings",
-    "description": "Get help with setting up and/or editing your account.",
-    "page": "account_settings"
+    "name": "Troubleshooting",
+    "description": "Get help with any errors that you might run into while using WebProfiles.",
+    "page": "troubleshooting"
   }
 ]
