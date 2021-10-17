@@ -4,6 +4,10 @@
     {
       "name": "Example Data",
       "slug": "example-data"
+    },
+    {
+      "name": "Duck is Cool",
+      "slug: "duck"
     }
   ]
 }
