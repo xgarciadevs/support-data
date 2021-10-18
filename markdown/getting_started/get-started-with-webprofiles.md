@@ -17,7 +17,7 @@ Hello and welcome! This short article is to help you get to know WebProfiles and
 
 **2nd step:** Click the "Register" button at the top-right of your screen **or** on the home page, enter your email address then click sign up.
 
-Well, that was easy! Your account is complete :) You should be on the discover page, click on a few profiles and look at some people's designs for their profile. When you are ready, move to the next section.
+Well, that was easy! Your account is complete :) You should be on the discover page, it will probably not show any profiles since you have not selected any interests in settings. When you are ready, move to the next section.
 
 <a name="creating-your-account"/></a>
 ## Exploring the Website
