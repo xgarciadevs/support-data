@@ -15,9 +15,9 @@ Hello and welcome! This article is to help you get to know WebProfiles and how t
 <a name="creating-your-account"/></a>
 ## Creating your Account
 &nbsp;
-**1st step (if you haven't already):** Go to the **[WebProfiles](https://webprofiles.me)** home page.
+**Step One (if you haven't already):** Go to the **[WebProfiles](https://webprofiles.me)** home page.
 &nbsp;
-**2nd step:** Click the "Register" button at the top-right of your screen **or** on the home page, enter your email address then click sign up.
+**Step Two:** Click the "Register" button at the top-right of your screen **or** on the home page, enter your email address then click sign up.
 &nbsp;
 Well, that was easy! Your account is complete :) You should be on the discover page, it will probably not show any profiles since you have not selected any interests in settings. When you are ready, move to the next section.
 
@@ -37,10 +37,10 @@ This is a short section, basically just look around at what WebProfiles has to o
 &nbsp;
 Now it is time to set up your own profile! This may seem scary at first to some but don't worry, it's easy as 123.
 &nbsp;
-**1st step:** Click on the dashboard button on the top-right. You should be taken to something that looks similar to the image below:
+**Step One:** Click on the dashboard button on the top-right. You should be taken to something that looks similar to the image below:
 ![image](https://user-images.githubusercontent.com/45861163/137759869-5e7100c4-5047-483d-b4e6-0bc84e488cad.png)
 &nbsp;
-**2nd step:** Click on any of the services shown and login to them and it will link that service with WebProfiles. Once you have added all of your services, you can either click on the "Account Settings" options and edit things such as your interests or reset your email/password **or** you can click on your username and it will redirect you to something like the image below:
+**Step Two:** Click on any of the services shown and login to them and it will link that service with WebProfiles. Once you have added all of your services, you can either click on the "Account Settings" options and edit things such as your interests or reset your email/password **or** you can click on your username and it will redirect you to something like the image below:
 ![image](https://user-images.githubusercontent.com/45861163/137760374-e981e88b-0d1b-433b-96af-79bd55a1b1bb.png)
 
 &nbsp;
