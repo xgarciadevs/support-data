@@ -23,7 +23,7 @@ Well, that was easy! Your account is complete :) You should be on the discover p
 
 &nbsp;
 
-<a name="creating-your-account"/></a>
+<a name="exploring-the-website"/></a>
 ## Exploring the Website
 &nbsp;
 This is a short section, basically just look around at what WebProfiles has to offer! Visit user profiles, discover new friends, and much more.
