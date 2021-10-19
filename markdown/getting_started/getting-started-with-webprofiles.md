@@ -17,7 +17,7 @@ Hello and welcome! This article is to help you get to know WebProfiles and how t
 &nbsp;
 **Step On:** Go to the **[WebProfiles](https://webprofiles.me)** home page.
 &nbsp;
-**Step Two:** Click the "Register" button at the top-right of your screen, **or** on the home page, enter your email address then click sign up.
+**Step Two:** Click the "Register" button at the top-right of your screen **or** click [here](https://webprofiles.me/register) **or** on the home page, enter your email address then click sign up.
 &nbsp;
 Well, that was easy! Your account is complete :) You should be on the discover page, you probably won't see any profiles since you have not selected any interests in settings yet. Interests are a way to show users what you are interested in! They also show other users who have the same interests.
 
