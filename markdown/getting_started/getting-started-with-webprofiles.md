@@ -40,7 +40,7 @@ Now it is time to set up your own profile! This may seem scary at first to some,
 **Step One:** Click on the dashboard button on the top-right. You should be taken to something that looks similar to the image below:
 ![image](https://user-images.githubusercontent.com/45861163/137759869-5e7100c4-5047-483d-b4e6-0bc84e488cad.png)
 &nbsp;
-**Step Two:** Click on any of the services shown and login to them and it will link that service with WebProfiles. Once you have added all of your services, you can either click on the "Account Settings" options and edit your interests or change/reset your email and/or password, **or** you can click on your username to view your profile which should look like the image below.
+**Step Two:** Click on any of the services shown, login to it, and view the linked account on your WebProfile profile. Once you have added all of your services, you can either click on the "Account Settings" options and edit your interests or change/reset your email or password, **or** you can click on your username to view your profile which should look like the image below:
 ![image](https://user-images.githubusercontent.com/45861163/137760374-e981e88b-0d1b-433b-96af-79bd55a1b1bb.png)
 
 &nbsp;
